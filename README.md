@@ -2,36 +2,41 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Redis+%7C+AWS+%7C+Docker;5.6+Years+Building+Scalable+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E75B6&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Kafka+%7C+Redis+%7C+AWS+%7C+Docker;5.6+Years+%7C+5M%2B+Users+%7C+Open+to+SDE-II)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshangowdang)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:darshangowda.ng@gmail.com)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/darshanng)
+[![Profile Views](https://komarev.com/ghpvc/?username=darshanng&color=2E75B6&style=flat-square&label=Profile+Views)](https://github.com/darshanng)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 ```java
 public class DarshanGowdaNG {
 
-    String name        = "Darshan Gowda NG";
-    String role        = "Senior Full Stack Engineer";
-    String location    = "Bengaluru, Karnataka, India 🇮🇳";
-    String experience  = "5.6 years";
-    String company     = "Test Yantra Software Solutions";
+    String  name        = "Darshan Gowda NG";
+    String  role        = "Senior Full Stack Engineer";
+    String  location    = "Bengaluru, Karnataka, India 🇮🇳";
+    String  experience  = "5.6 years";
+    String  company     = "Test Yantra Software Solutions";
 
-    String[] focus     = {
-        "Microservices Architecture",
-        "Distributed Systems",
+    String[] expertise  = {
+        "Microservices Architecture & Distributed Systems",
         "Backend Performance Optimization",
-        "Cloud-Native Solutions on AWS"
+        "Cloud-Native Solutions on AWS",
+        "System Design & DSA"
     };
 
-    String[] certifications = {
+    String[] certs      = {
         "AWS Certified Solutions Architect – Associate (2022)",
-        "Oracle Certified Professional, Java SE 11 Developer (2021)"
+        "Oracle Certified Professional, Java SE 11 (2021)"
     };
 
-    String goal = "Open to Senior / SDE-II roles at product-based companies";
+    boolean openToWork  = true; // SDE-II roles @ product-based companies
 }
 ```
 
@@ -39,37 +44,43 @@ public class DarshanGowdaNG {
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Backend**
+
+![Java](https://img.shields.io/badge/Java_8%2F11%2F17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### Testing
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+**Testing**
+
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
@@ -80,13 +91,14 @@ public class DarshanGowdaNG {
 
 | Metric | Result |
 |--------|--------|
-| ⚡ Service Latency Reduced | **30%** |
-| 🗄️ Database Query Performance | **40% faster** |
-| 🚀 Release Cycles Accelerated | **70% faster** |
-| 🛡️ System Availability Maintained | **99.9% uptime** |
-| 👥 Customer Support Queries Reduced | **25%** |
-| 🚀 Deployment Effort Cut | **50%** |
-| 👤 Users Served | **5M+** |
+| ⚡ Service latency reduced | **30%** |
+| 🗄️ Database query performance | **40% faster** |
+| 🚀 CI/CD release cycles | **70% faster** |
+| 🛡️ System availability | **99.9% uptime** |
+| 👥 Users served | **5M+** |
+| 📦 Deployment effort cut | **50%** |
+| 🐛 Production defects reduced | **25%** |
+| 😊 Customer support queries reduced | **25%** |
 
 </div>
 
@@ -94,47 +106,78 @@ public class DarshanGowdaNG {
 
 ## 💼 Work Experience
 
-### 🏢 Test Yantra Software Solutions
-**Software Engineer** · Apr 2023 – Present · Bengaluru, India
+### 🏢 Test Yantra Software Solutions — Software Engineer
+📅 **Apr 2023 – Present** &nbsp;&nbsp; 📍 Bengaluru, India
 
-- 🔹 Architected **10+ scalable microservices** using Java, Spring Boot & Kafka for a high-traffic booking platform serving **5M+ users**
-- 🔹 Optimized **20+ SQL queries** using EXPLAIN PLAN, composite indexing & partitioning → **40% faster** data retrieval
-- 🔹 Led end-to-end development of flight management module using Spring Boot + React.js with optimistic concurrency control
-- 🔹 Built fault-tolerant REST APIs with **circuit breaker patterns** and retry logic → **99.9% uptime SLA**
-- 🔹 Deployed CI/CD pipelines with Jenkins + Docker → deployment effort **↓50%**, release cycles **↑70% faster**
+- 🔹 Architected **10+ scalable microservices** using Java, Spring Boot & Kafka for a high-traffic booking platform serving **5M+ users** — service latency reduced by **30%**
+- 🔹 Optimized **20+ complex SQL queries** using EXPLAIN PLAN analysis, composite indexing & table partitioning — data retrieval **40% faster**
+- 🔹 Led full-stack development of flight management module with **optimistic concurrency control** — customer support queries down **25%**
+- 🔹 Built fault-tolerant REST APIs with **circuit breaker patterns** (Resilience4j) & retry logic — maintained **99.9% uptime SLA**
+- 🔹 Built React.js + TypeScript frontends with Redux state management & code-splitting — user engagement up **15%**, bundle size down **30%**
+- 🔹 Implemented CI/CD pipelines (Jenkins + Docker + Maven) — deployment effort **↓50%**, release cycles **↑70% faster**
 
-**Associate Software Engineer** · Oct 2019 – Mar 2023 · Bengaluru, India
+---
 
-- 🔹 Built scalable backend modules using Java, Spring MVC, Spring Data JPA & Hibernate for enterprise B2B platform
-- 🔹 Designed & optimized DB schemas, SQL queries, indexing strategies across MySQL & Oracle for large-scale workloads
-- 🔹 Integrated third-party REST APIs → system stability improved, production defects reduced by **25%**
-- 🔹 Delivered full-stack feature enhancements within Agile/Scrum teams with minimal post-deployment defects
+### 🏢 Test Yantra Software Solutions — Associate Software Engineer
+📅 **Oct 2019 – Mar 2023** &nbsp;&nbsp; 📍 Bengaluru, India
+
+- 🔹 Developed scalable backend modules using Java, Spring MVC, Spring Data JPA & Hibernate for enterprise B2B platform handling high-volume data operations
+- 🔹 Designed & optimized relational DB schemas, SQL queries & indexing strategies across MySQL & Oracle for large-scale transactional workloads
+- 🔹 Integrated third-party REST APIs & resolved critical production issues — production defects down **25%**
+- 🔹 Built responsive frontend components using JavaScript, HTML5 & CSS3 — user task efficiency up **15%**
+- 🔹 Collaborated in Agile/Scrum teams — consistently shipped stable, production-ready releases each sprint
 
 ---
 
 ## 🗂️ Featured Projects
 
 ### 🛒 E-commerce Platform
-> Full-stack e-commerce app with event-driven order processing
 
-**Tech Stack:** `Java` `Spring Boot` `React.js` `MySQL` `Apache Kafka` `AWS` `Docker` `JUnit`
+> Full-stack e-commerce application with event-driven order processing
 
-- Event-driven architecture via Kafka for high-concurrency shopping flows across decoupled microservices
-- Secure payment processing with encrypted API integrations
-- Real-time inventory management system
-- Deployed on AWS with Docker — scalable, production-ready infrastructure
-- High code coverage with comprehensive JUnit unit + integration tests
+```
+Stack : Java · Spring Boot · React.js · MySQL · Apache Kafka · AWS · Docker · JUnit
+```
+
+- ✅ Event-driven order processing via **Apache Kafka** across decoupled microservices for high-concurrency flows
+- ✅ Secure payment processing with encrypted API integrations
+- ✅ Real-time inventory management system — reduced order failures significantly
+- ✅ Deployed on **AWS** with Docker — scalable, production-ready infrastructure
+- ✅ High code coverage via comprehensive **JUnit** unit & integration tests across all core modules
 
 ---
 
 ### 💬 Real-time Chat Application
-> Enterprise-scale chat system with optimized data layer
 
-**Tech Stack:** `Java` `Spring MVC` `Spring Data JPA` `Hibernate` `MySQL` `Oracle` `JavaScript` `HTML5` `CSS3`
+> Enterprise-scale real-time messaging system with optimized data layer
 
-- Scalable backend with optimized relational DB schemas & indexing strategies across MySQL and Oracle
-- Third-party REST API integrations → production defects reduced by **25%**
-- Responsive frontend with improved user task efficiency by **15%**
+```
+Stack : Java · Spring MVC · Spring Data JPA · Hibernate · MySQL · Oracle · JavaScript · HTML5 · CSS3
+```
+
+- ✅ Scalable backend with optimized relational DB schemas & indexing strategies across MySQL & Oracle
+- ✅ Integrated third-party REST APIs — production defects reduced by **25%**
+- ✅ Responsive frontend with improved user task efficiency by **15%**
+- ✅ Delivered within Agile/Scrum sprints with consistent, stable production releases
+
+---
+
+## 🧠 DSA & Computer Science Fundamentals
+
+```
+Data Structures  →  Arrays · Linked Lists · Stacks · Queues · Trees · Graphs
+                    Heaps · Tries · Hash Tables · Segment Trees
+
+Algorithms       →  Sorting (Quick, Merge, Heap) · Binary Search · Two Pointers
+                    Sliding Window · Dynamic Programming · Recursion · Backtracking
+
+Graph Algorithms →  DFS · BFS · Dijkstra's Shortest Path · Topological Sort
+                    Cycle Detection · Connected Components
+
+Core Concepts    →  Big O Complexity Analysis · Space-Time Trade-offs
+                    SOLID Principles · Design Patterns · System Design
+                    Scalability · Replication · Sharding · CAP Theorem
+```
 
 ---
 
@@ -142,39 +185,28 @@ public class DarshanGowdaNG {
 
 <div align="center">
 
-| 🏆 Certification | 🏢 Issuer | 📅 Year |
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
 |-----------------|-----------|---------|
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | 2022 |
-| Oracle Certified Professional, Java SE 11 Developer | Oracle | 2021 |
+| ☁️ AWS Certified Solutions Architect – Associate | Amazon Web Services | Jul 2022 |
+| ☕ Oracle Certified Professional, Java SE 11 Developer | Oracle | Sep 2021 |
 
 </div>
 
 ---
 
-## 📚 DSA & Computer Science Fundamentals
+## 🏅 Achievements
 
-```
-Data Structures : Arrays · Linked Lists · Trees · Graphs · Heaps · Tries · Hash Tables
-Algorithms      : Sorting · Searching · Dynamic Programming · Recursion · Backtracking
-Concepts        : Complexity Analysis · SOLID Principles · Design Patterns · System Design
-Graph Algos     : DFS · BFS · Dijkstra · Topological Sort · Cycle Detection
-```
+- 🥇 **Employee of the Month** — Recognized for outstanding contributions in software development, leading to successful project completions and team collaboration
+- 🏆 **Project Excellence Award** — Awarded for exceptional delivery of a high-traffic booking platform serving **5M+ users**, significantly reducing latency and enhancing user experience
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science and Engineering**
-Sardar Patel University · GPA: 7.4 · May 2019 – Apr 2022
+**🎓 Bachelor of Computer Science and Engineering**
+Sardar Patel University &nbsp;·&nbsp; GPA: **7.4** &nbsp;·&nbsp; May 2019 – Apr 2022
 
-`Software Engineering` `Database Management Systems` `Data Structures & Algorithms` `Operating Systems` `Web Development`
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Employee of the Month** — Recognized for outstanding contributions and performance in software development
-- 🏅 **Project Excellence Award** — Exceptional delivery of high-traffic booking platform, significantly reducing latency
+`Software Engineering` &nbsp; `Database Management Systems` &nbsp; `Data Structures & Algorithms` &nbsp; `Operating Systems` &nbsp; `Web Development`
 
 ---
 
@@ -182,9 +214,9 @@ Sardar Patel University · GPA: 7.4 · May 2019 – Apr 2022
 
 <div align="center">
 
-![Darshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanng&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshanng&theme=tokyonight&hide_border=true)
 
@@ -192,14 +224,24 @@ Sardar Patel University · GPA: 7.4 · May 2019 – Apr 2022
 
 ---
 
-## 📫 Let's Connect
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://github.com/darshanng/darshanng/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshangowdang)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshangowda.ng@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/darshanng)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919535569315)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919535569315)
 
 </div>
 
@@ -207,7 +249,7 @@ Sardar Patel University · GPA: 7.4 · May 2019 – Apr 2022
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=darshanng&color=2E75B6&style=for-the-badge&label=Profile+Views)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=2E75B6&height=120&section=footer&text=Let's+Build+Something+Great&fontSize=20&fontColor=ffffff&animation=fadeIn)
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
